@@ -15,14 +15,24 @@ When creating an open source project on GitHub, it’s crucial to have a high-qu
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/feliperyder/readme-generator.git
+   ```
+
 2. Navigate to the project directory.
-cd readme-generator
+   ```bash
+   cd readme-generator
+   ```
+
 3. Install the required dependencies.:
-npm install
+   ```bash
+   npm install
+   ```
+  
 
 ## Usage
 Run the application by using the following command:
-node index.js
+   ```bash
+   node index.js
+   ```
 
 Answer the prompts to provide information about your project, and a professional README.md file will be generated in the output directory.
 
@@ -34,6 +44,7 @@ Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
 
 ## Tests
 To test the application, run:
+   ```bash
 npm test
 
 
