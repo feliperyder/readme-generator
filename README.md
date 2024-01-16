@@ -46,7 +46,7 @@ Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
 To test the application, run:
    ```bash
 npm test
-
+```
 
 ## Questions
 
